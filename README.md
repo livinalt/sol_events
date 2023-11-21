@@ -54,6 +54,10 @@ The ICO Platform Smart Contract is a Solidity contract designed for an Initial C
 
 5. Check ICO Status
    - Use the `expire` function to check if the ICO has expired.
+  
+## License
+
+This project is licensed under the MIT License.
 
 - [Solidity Compiler](https://docs.soliditylang.org/en/latest/installing-solidity.html)
 - [Ethereum Development Environment](https://ethereum.org/en/developers/docs/development-environment/)
